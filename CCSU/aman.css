@@ -1,0 +1,46 @@
+/* jai mahakal */
+*{
+    margin: 0;
+    padding: 0;
+}
+
+
+.link a{
+  text-decoration: none;
+  background-color: blue;
+  color: white;
+
+}
+.link{
+   
+    background-color: blue;
+    padding: 0px 10px;
+    
+  
+  }
+.link button{
+   
+    background-color: aqua;
+    border-radius: 20px;
+    color: white;
+    padding: 5px;
+    font-weight: 900;
+  
+  }
+  .row{
+    justify-content: space-around;
+  
+    
+   
+    
+  }
+  .col-md-3{
+    background-color: white;
+    border: 1px solid grey;
+    
+  }
+  .container .col-md-3{
+    background-color: rgb(76, 148, 243);
+    padding: 50px;
+  }
+  
